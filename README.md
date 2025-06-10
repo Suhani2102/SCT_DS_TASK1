@@ -2,6 +2,7 @@
 📊 Task 1: Data Visualization of Youth Labor Force Participation
 
 📝 Project Overview
+
 This task explores the labor force participation rate (LFPR) of young males aged 15–24 across countries using data visualization. Through effective charts and plots, I examined patterns, trends, and outliers in global youth employment from 2010 to 2024.
 
 🎯 Objectives
